@@ -1,6 +1,6 @@
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ClaudioBotelhOSB&include_all_commits=true&show_icons=true&hide=stars,prs,issues,contribs&hide_border=true&hide_rank=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ClaudioBotelhOSB&count_private=true&include_all_commits=true&show_icons=true&hide=stars,prs,issues,contribs&hide_border=true&hide_rank=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # Languages:
 # Tools:
