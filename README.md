@@ -1,11 +1,6 @@
+### Atualmente atualizando aos poucos o GitHub, focado nos projetos e em competições de programação. 👋
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ClaudioBotelhOSB&count_private=true&include_all_commits=true&show_icons=true&hide=stars,prs,issues,contribs&hide_border=true&hide_rank=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
-# Languages:
-# Tools:
-# Backend:
-
+<h4>
 <details>
 <summary>📈 Languages and Tools:</summary>
 <p align="center"><img align="left" alt="JavaScript" width="26px" heigth="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></p>
@@ -18,3 +13,4 @@
 <p align="center"><img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></p>
 <p align="center"><img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" /></p>
 </details>
+</h4>
