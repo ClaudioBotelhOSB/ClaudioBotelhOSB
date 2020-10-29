@@ -1,4 +1,8 @@
-### Atualmente atualizando aos poucos o GitHub, focado nos projetos e em competições de programação :rocket:
+### Atualmente atualizando aos poucos o GitHub, focado nos projetos e em competições de programação 
+
+- :alarm_clock: Atualizando aos poucos o GitHub 
+- :computer: Estudando e trabalhando em novas tecnologias
+- :rocket: Focado em competições de programação
 
 <h4>
 <details>
