@@ -1,8 +1,6 @@
 - :alarm_clock: Atualizando aos poucos o GitHub 
 - :computer: Estudando e trabalhando em novas tecnologias
-- :rocket: Focado em competições de programação
 
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/ClaudioBotelhOSB)](https://badges.pufler.dev)
 
 <h4>
 <details>
