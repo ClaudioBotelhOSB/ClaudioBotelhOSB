@@ -1,4 +1,4 @@
-### Atualmente atualizando aos poucos o GitHub, focado nos projetos e em competições de programação. 👋
+### Atualmente atualizando aos poucos o GitHub, focado nos projetos e em competições de programação. [:rocket:]
 
 <h4>
 <details>
