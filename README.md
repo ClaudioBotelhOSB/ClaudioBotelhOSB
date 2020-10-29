@@ -2,6 +2,8 @@
 - :computer: Estudando e trabalhando em novas tecnologias
 - :rocket: Focado em competições de programação
 
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/ClaudioBotelhOSB)](https://badges.pufler.dev)
+
 <h4>
 <details>
 <summary>📈 Languages and Tools:</summary>
