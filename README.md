@@ -1,5 +1,5 @@
 - :alarm_clock: Atualizando aos poucos o GitHub 
-- :computer: Estudando e trabalhando em novas tecnologias
+- :computer: Estudando e trabalhando em novas _(e antigas)_ tecnologias
 
 
 <h4>
