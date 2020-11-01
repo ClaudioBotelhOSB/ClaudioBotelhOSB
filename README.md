@@ -64,7 +64,7 @@
   
 </details>
 </h4>
-<!---
+
 <h4>
 <details>
 <summary>🏆 Competitive Programming:</summary>
@@ -131,8 +131,5 @@
 </details>
 </h4>
 
-
-
----!>
 
 
