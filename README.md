@@ -24,11 +24,6 @@
   <p align="center"><img align="left" alt="Haskell" width="28px" src="https://simpleicons.org/icons/haskell.svg" /></p>
   <p align="center"><img align="left" alt="Java" width="28px" src="https://simpleicons.org/icons/java.svg" /></p>
   <p align="center"><img align="left" alt="JavaScript" width="28px" src="https://simpleicons.org/icons/javascript.svg" /></p>
-  <p align="center"><img align="left" alt="Visual Studio Code" width="28px" src="https://simpleicons.org/icons/visualstudiocode.svg" /></p>
-  <p align="center"><img align="left" alt="Visual Studio Code" width="28px" src="https://simpleicons.org/icons/visualstudiocode.svg" /></p>
-  <p align="center"><img align="left" alt="Visual Studio Code" width="28px" src="https://simpleicons.org/icons/visualstudiocode.svg" /></p>
-  <p align="center"><img align="left" alt="Visual Studio Code" width="28px" src="https://simpleicons.org/icons/visualstudiocode.svg" /></p>
-  <p align="center"><img align="left" alt="Visual Studio Code" width="28px" src="https://simpleicons.org/icons/visualstudiocode.svg" /></p>
 </details>
 </h4>
 <br>
@@ -54,7 +49,6 @@
   <p align="center"><img align="left" alt="AngularJS" width="28px" src="https://simpleicons.org/icons/angularjs.svg" /></p>
   <p align="center"><img align="left" alt="CSS3" width="28px" src="https://simpleicons.org/icons/css3.svg" /></p>
   <p align="center"><img align="left" alt="Gimp" width="28px" src="https://simpleicons.org/icons/gimp.svg" /></p>
-  <p align="center"><img align="left" alt="CSS3" width="28px" src="https://simpleicons.org/icons/css3.svg" /></p>
   
 </details>
 </h4>
@@ -65,11 +59,6 @@
   <p align="center"><img align="left" alt="Visual Studio Code" width="28px" src="https://simpleicons.org/icons/visualstudiocode.svg" /></p>
   <p align="center"><img align="left" alt="Atom" width="28px" src="https://simpleicons.org/icons/atom.svg" /></p>
   <p align="center"><img align="left" alt="Eclipse IDE" width="28px" src="https://simpleicons.org/icons/eclipseide.svg" /></p>
-  <p align="center"><img align="left" alt="Atom" width="28px" src="https://simpleicons.org/icons/atom.svg" /></p>
-  <p align="center"><img align="left" alt="Atom" width="28px" src="https://simpleicons.org/icons/atom.svg" /></p>
-  <p align="center"><img align="left" alt="Atom" width="28px" src="https://simpleicons.org/icons/atom.svg" /></p>
-  <p align="center"><img align="left" alt="Atom" width="28px" src="https://simpleicons.org/icons/atom.svg" /></p>
-  <p align="center"><img align="left" alt="Atom" width="28px" src="https://simpleicons.org/icons/atom.svg" /></p>
   
   
 </details>
