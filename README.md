@@ -51,7 +51,7 @@
   <p align="center"><img align="left" alt="Tableau" width="27px" src="https://simpleicons.org/icons/tableau.svg" /></p>
   <p align="center"><img align="left" alt="TensorFlow" width="27px" src="https://simpleicons.org/icons/tensorflow.svg" /></p>
   <p align="center"><img align="left" alt="TypeScript" width="27px" src="https://simpleicons.org/icons/typescript.svg" /></p>
-  <br>
+  <br><br>
 </details>
 </h4>
 
@@ -84,7 +84,7 @@
   <p align="center"><img align="left" alt="Unity" width="27px" src="https://simpleicons.org/icons/unity.svg" /></p>
   <p align="center"><img align="left" alt="Unreal Engine" width="27px" src="https://simpleicons.org/icons/unrealengine.svg" /></p>
   <p align="center"><img align="left" alt="Vue.js" width="27px" src="https://simpleicons.org/icons/vue-dot-js.svg" /></p>
-  <br>
+  <br><br>
 </details>
 </h4>
 
