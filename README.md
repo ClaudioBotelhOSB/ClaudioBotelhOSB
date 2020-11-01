@@ -51,7 +51,7 @@
   <p align="center"><img align="left" alt="Tableau" width="27px" src="https://simpleicons.org/icons/tableau.svg" /></p>
   <p align="center"><img align="left" alt="TensorFlow" width="27px" src="https://simpleicons.org/icons/tensorflow.svg" /></p>
   <p align="center"><img align="left" alt="TypeScript" width="27px" src="https://simpleicons.org/icons/typescript.svg" /></p>
-  <br><br>
+  <br><br><br>
 </details>
 </h4>
 
