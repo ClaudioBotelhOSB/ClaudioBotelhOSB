@@ -56,7 +56,7 @@
 <br> 
 <h4>
 <details>
-<summary>📈 IDEs & Libraries:</summary>
+<summary>🔧 IDEs & Libraries:</summary>
   <p align="center"><img align="left" alt="Visual Studio Code" width="28px" src="https://simpleicons.org/icons/visualstudiocode.svg" /></p>
   <p align="center"><img align="left" alt="Atom" width="28px" src="https://simpleicons.org/icons/atom.svg" /></p>
   <p align="center"><img align="left" alt="Eclipse IDE" width="28px" src="https://simpleicons.org/icons/eclipseide.svg" /></p>
@@ -67,7 +67,7 @@
 <!---
 <h4>
 <details>
-<summary>📈 Competitive Programming:</summary>
+<summary>🏆 Competitive Programming:</summary>
   <p align="center"><img align="left" alt="CodeChef" width="28px" heigth="28px"  src="https://simpleicons.org/icons/codechef.svg" /></p>
   <p align="center"><img align="left" alt="Codeforces" width="28px" heigth="28px"  src="https://simpleicons.org/icons/codeforces.svg" /></p>
   <p align="center"><img align="left" alt="Codewars" width="28px" heigth="28px"  src="https://simpleicons.org/icons/codewars.svg" /></p>
@@ -81,7 +81,7 @@
 
 <h4>
 <details>
-<summary>📈 Portfolios:</summary>
+<summary>📝 Portfolios:</summary>
   <p align="center"><img align="left" alt="Dribbble" width="28px" heigth="28px"  src="https://simpleicons.org/icons/dribbble.svg" /></p>
   <p align="center"><img align="left" alt="ArtStation" width="28px" heigth="28px"  src="https://simpleicons.org/icons/artstation.svg" /></p>
   <p align="center"><img align="left" alt="Behance" width="28px" heigth="28px"  src="https://simpleicons.org/icons/behance.svg" /></p>
@@ -107,7 +107,7 @@
 
 <h4>
 <details>
-<summary>📈 IoT:</summary>
+<summary>💡 IoT:</summary>
   <p align="center"><img align="left" alt="Arduino" width="28px" heigth="28px"  src="https://simpleicons.org/icons/arduino.svg" /></p>
   <p align="center"><img align="left" alt="Slack" width="28px" heigth="28px"  src="https://simpleicons.org/icons/slack.svg" /></p>
   <p align="center"><img align="left" alt="Slack" width="28px" heigth="28px"  src="https://simpleicons.org/icons/slack.svg" /></p>
@@ -120,7 +120,7 @@
 
 <h4>
 <details>
-<summary>📈 Freelancers:</summary>
+<summary>💼 Freelancers:</summary>
   <p align="center"><img align="left" alt="Fiverr" width="28px" heigth="28px"  src="https://simpleicons.org/icons/fiverr.svg" /></p>
   <p align="center"><img align="left" alt="Freelancer" width="28px" heigth="28px"  src="https://simpleicons.org/icons/freelancer.svg" /></p>
   <p align="center"><img align="left" alt="Slack" width="28px" heigth="28px"  src="https://simpleicons.org/icons/slack.svg" /></p>
