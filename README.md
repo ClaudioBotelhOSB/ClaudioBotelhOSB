@@ -1,7 +1,6 @@
 - :alarm_clock: Atualizando aos poucos o GitHub 
 - :computer: Estudando e trabalhando em novas _(e antigas)_ tecnologias
 
-
 <h4>
 <details>
 <summary>📈 Languages and Tools:</summary>
@@ -27,7 +26,7 @@
   <br>
 </details>
 </h4>
-<br>
+
 <h4>
 <details>
 <summary>✒️ Design, Web design & Audiovisual:</summary>
@@ -53,7 +52,7 @@
   <br>
 </details>
 </h4>
-<br> 
+
 <h4>
 <details>
 <summary>🔧 IDEs & Libraries:</summary>
@@ -61,7 +60,6 @@
   <p align="center"><img align="left" alt="Atom" width="28px" src="https://simpleicons.org/icons/atom.svg" /></p>
   <p align="center"><img align="left" alt="Eclipse IDE" width="28px" src="https://simpleicons.org/icons/eclipseide.svg" /></p>
   <br>
-  
 </details>
 </h4>
 
@@ -135,6 +133,3 @@
   <br>
 </details>
 </h4>
-
-
-
