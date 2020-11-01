@@ -76,6 +76,7 @@
   <p align="center"><img align="left" alt="Codeforces" width="28px" heigth="28px"  src="https://simpleicons.org/icons/codeforces.svg" /></p>
   <p align="center"><img align="left" alt="Codeforces" width="28px" heigth="28px"  src="https://simpleicons.org/icons/codeforces.svg" /></p>
   <p align="center"><img align="left" alt="Codeforces" width="28px" heigth="28px"  src="https://simpleicons.org/icons/codeforces.svg" /></p>
+  <br>
 </details>
 </h4>
 
@@ -89,6 +90,7 @@
   <p align="center"><img align="left" alt="Dribbble" width="28px" heigth="28px"  src="https://simpleicons.org/icons/dribbble.svg" /></p>
   <p align="center"><img align="left" alt="Dribbble" width="28px" heigth="28px"  src="https://simpleicons.org/icons/dribbble.svg" /></p>
   <p align="center"><img align="left" alt="Dribbble" width="28px" heigth="28px"  src="https://simpleicons.org/icons/dribbble.svg" /></p>
+  <br>
 </details>
 </h4>
 
@@ -102,6 +104,7 @@
   <p align="center"><img align="left" alt="Slack" width="28px" heigth="28px"  src="https://simpleicons.org/icons/slack.svg" /></p>
   <p align="center"><img align="left" alt="Slack" width="28px" heigth="28px"  src="https://simpleicons.org/icons/slack.svg" /></p>
   <p align="center"><img align="left" alt="Slack" width="28px" heigth="28px"  src="https://simpleicons.org/icons/slack.svg" /></p>
+  <br>
 </details>
 </h4>
 
@@ -115,6 +118,7 @@
   <p align="center"><img align="left" alt="Slack" width="28px" heigth="28px"  src="https://simpleicons.org/icons/slack.svg" /></p>
   <p align="center"><img align="left" alt="Slack" width="28px" heigth="28px"  src="https://simpleicons.org/icons/slack.svg" /></p>
   <p align="center"><img align="left" alt="Slack" width="28px" heigth="28px"  src="https://simpleicons.org/icons/slack.svg" /></p>
+  <br>
 </details>
 </h4>
 
@@ -128,6 +132,7 @@
   <p align="center"><img align="left" alt="Slack" width="28px" heigth="28px"  src="https://simpleicons.org/icons/slack.svg" /></p>
   <p align="center"><img align="left" alt="Slack" width="28px" heigth="28px"  src="https://simpleicons.org/icons/slack.svg" /></p>
   <p align="center"><img align="left" alt="Slack" width="28px" heigth="28px"  src="https://simpleicons.org/icons/slack.svg" /></p>
+  <br>
 </details>
 </h4>
 
