@@ -125,7 +125,11 @@
   <p align="center"><img align="left" alt="DevianArt" width="27px" heigth="27px"  src="https://simpleicons.org/icons/deviantart.svg" /></p>
   <p align="center"><img align="left" alt="Medium" width="27px" heigth="27px"  src="https://simpleicons.org/icons/medium.svg" /></p>
   <p align="center"><img align="left" alt="Sketchafab" width="27px" heigth="27px"  src="https://simpleicons.org/icons/sketchfab.svg" /></p>
-  <p align="center"><img align="left" alt="Sketchafab" width="27px" heigth="27px"  src="https://simpleicons.org/icons/codepen.svg" /></p> 
+  <p align="center"><img align="left" alt="Sketchafab" width="27px" heigth="27px"  src="https://simpleicons.org/icons/codepen.svg" /></p>
+  <!--
+    <p align="center"><img align="left" alt="Awwwards" width="27px" heigth="27px"  src="Awwwards" /></p>
+    <p align="center"><img align="left" alt="CSS Design Awards" width="27px" heigth="27px"  src="CSS Design Awards" /></p>
+   --!>
   <br>
 </details>
 </h4>
