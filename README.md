@@ -103,7 +103,7 @@
 
 <h4>
 <details>
-<summary>📈 Productivy:</summary>
+<summary>📈 Productivity:</summary>
   <p align="center"><img align="left" alt="Slack" width="27px" heigth="27px"  src="https://simpleicons.org/icons/slack.svg" /></p>
   <p align="center"><img align="left" alt="Notion" width="27px" heigth="27px"  src="https://simpleicons.org/icons/notion.svg" /></p>
   <p align="center"><img align="left" alt="Todoist" width="27px" heigth="27px"  src="https://simpleicons.org/icons/todoist.svg" /></p>
