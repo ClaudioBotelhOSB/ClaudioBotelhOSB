@@ -62,7 +62,6 @@
   <p align="center"><img align="left" alt="Adobe Xd" width="27px" src="https://simpleicons.org/icons/adobexd.svg" /></p>
   <p align="center"><img align="left" alt="Adobe InDesign" width="27px" src="https://simpleicons.org/icons/adobeindesign.svg" /></p>
   <p align="center"><img align="left" alt="Adobe Illustrator" width="27px" src="https://simpleicons.org/icons/adobeillustrator.svg" /></p>
-  <p align="center"><img align="left" alt="Adobe Lightroom" width="27px" src="https://simpleicons.org/icons/adobelightroomcc.svg" /></p>
   <p align="center"><img align="left" alt="Adobe Photoshop" width="27px" src="https://simpleicons.org/icons/adobephotoshop.svg" /></p>
   <p align="center"><img align="left" alt="Adobe After Effects" width="27px" src="https://simpleicons.org/icons/adobeaftereffects.svg" /></p>
   <p align="center"><img align="left" alt="HTML5" width="27px" src="https://simpleicons.org/icons/html5.svg" /></p>
