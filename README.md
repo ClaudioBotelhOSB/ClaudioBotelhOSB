@@ -1,5 +1,6 @@
-- :alarm_clock: Atualizando aos poucos o GitHub 
+- :alarm_clock: Atualizando constantemente o GitHub
 - :computer: Estudando e trabalhando em novas _(e antigas)_ tecnologias
+- :pencil2: Colocando ideias no papel e tirando-as para pôr em prática
 
 ---
 
