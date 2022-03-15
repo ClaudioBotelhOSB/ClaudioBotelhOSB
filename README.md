@@ -9,6 +9,8 @@
     <details>
     <summary>🎲 Programming Languages:</summary>
       <br>
+      <!-- Light Mode -->
+        <p align="center"><img align="left" alt="Typescript" width="27px" src="https://github.com/ClaudioBotelhOSB/ClaudioBotelhOSB/blob/2022-1-update/icons/light/programming%20languages/dotnet.svg#gh-light-mode-only" /></p>
         <p align="center"><img align="left" alt=".NET" width="27px" src="https://github.com/ClaudioBotelhOSB/ClaudioBotelhOSB/blob/2022-1-update/icons/light/programming%20languages/dart.svg#gh-light-mode-only" /></p>
         <p align="center"><img align="left" alt="AssemblyScript" width="27px" src="https://github.com/ClaudioBotelhOSB/ClaudioBotelhOSB/blob/2022-1-update/icons/light/programming%20languages/assemblyscript.svg#gh-light-mode-only" /></p>
         <p align="center"><img align="left" alt="C++" width="27px" src="https://github.com/ClaudioBotelhOSB/ClaudioBotelhOSB/blob/2022-1-update/icons/light/programming%20languages/cplusplus.svg#gh-light-mode-only" /></p>
@@ -32,6 +34,31 @@
         <p align="center"><img align="left" alt="Scala" width="27px" src="https://github.com/ClaudioBotelhOSB/ClaudioBotelhOSB/blob/2022-1-update/icons/light/programming%20languages/scala.svg#gh-light-mode-only" /></p>
         <p align="center"><img align="left" alt="Swift" width="27px" src="https://github.com/ClaudioBotelhOSB/ClaudioBotelhOSB/blob/2022-1-update/icons/light/programming%20languages/swift.svg#gh-light-mode-only" /></p>
         <p align="center"><img align="left" alt="Typescript" width="27px" src="https://github.com/ClaudioBotelhOSB/ClaudioBotelhOSB/blob/2022-1-update/icons/light/programming%20languages/typescript.svg#gh-light-mode-only" /></p>
+        <!-- Dark Mode -->
+        <p align="center"><img align="left" alt="Typescript" width="27px" src="https://github.com/ClaudioBotelhOSB/ClaudioBotelhOSB/blob/2022-1-update/icons/dark/programming%20languages/dotnet.svg#gh-dark-mode-only" /></p>
+        <p align="center"><img align="left" alt=".NET" width="27px" src="https://github.com/ClaudioBotelhOSB/ClaudioBotelhOSB/blob/2022-1-update/icons/dark/programming%20languages/dart.svg#gh-dark-mode-only" /></p>
+        <p align="center"><img align="left" alt="AssemblyScript" width="27px" src="https://github.com/ClaudioBotelhOSB/ClaudioBotelhOSB/blob/2022-1-update/icons/dark/programming%20languages/assemblyscript.svg#gh-dark-mode-only" /></p>
+        <p align="center"><img align="left" alt="C++" width="27px" src="https://github.com/ClaudioBotelhOSB/ClaudioBotelhOSB/blob/2022-1-update/icons/dark/programming%20languages/cplusplus.svg#gh-dark-mode-only" /></p>
+        <p align="center"><img align="left" alt="C#" width="27px" src="https://github.com/ClaudioBotelhOSB/ClaudioBotelhOSB/blob/2022-1-update/icons/dark/programming%20languages/csharp.svg#gh-dark-mode-only" /></p>
+        <p align="center"><img align="left" alt="Fortran" width="27px" src="https://github.com/ClaudioBotelhOSB/ClaudioBotelhOSB/blob/2022-1-update/icons/dark/programming%20languages/fortran.svg#gh-dark-mode-only" /></p>
+        <p align="center"><img align="left" alt="Go" width="27px" src="https://github.com/ClaudioBotelhOSB/ClaudioBotelhOSB/blob/2022-1-update/icons/dark/programming%20languages/go.svg#gh-dark-mode-only" /></p>
+        <p align="center"><img align="left" alt="GraphQL" width="27px" src="https://github.com/ClaudioBotelhOSB/ClaudioBotelhOSB/blob/2022-1-update/icons/dark/programming%20languages/graphql.svg#gh-dark-mode-only" /></p>
+        <p align="center"><img align="left" alt="Haskell" width="27px" src="https://github.com/ClaudioBotelhOSB/ClaudioBotelhOSB/blob/2022-1-update/icons/dark/programming%20languages/haskell.svg#gh-dark-mode-only" /></p>
+        <p align="center"><img align="left" alt="Java" width="27px" src="https://github.com/ClaudioBotelhOSB/ClaudioBotelhOSB/blob/2022-1-update/icons/dark/programming%20languages/java.svg#gh-dark-mode-only" /></p>
+        <p align="center"><img align="left" alt="Javascript" width="27px" src="https://github.com/ClaudioBotelhOSB/ClaudioBotelhOSB/blob/2022-1-update/icons/dark/programming%20languages/javascript.svg#gh-dark-mode-only" /></p>
+        <p align="center"><img align="left" alt="Julia" width="27px" src="https://github.com/ClaudioBotelhOSB/ClaudioBotelhOSB/blob/2022-1-update/icons/dark/programming%20languages/julia.svg#gh-dark-mode-only" /></p>
+        <p align="center"><img align="left" alt="Kotlin" width="27px" src="https://github.com/ClaudioBotelhOSB/ClaudioBotelhOSB/blob/2022-1-update/icons/dark/programming%20languages/kotlin.svg#gh-dark-mode-only" /></p>
+        <p align="center"><img align="left" alt="Google Script" width="27px" src="https://github.com/ClaudioBotelhOSB/ClaudioBotelhOSB/blob/2022-1-update/icons/dark/programming%20languages/logotipo-do-google-apps-script.png#gh-dark-mode-only" /></p>
+        <p align="center"><img align="left" alt="Lua" width="27px" src="https://github.com/ClaudioBotelhOSB/ClaudioBotelhOSB/blob/2022-1-update/icons/dark/programming%20languages/lua.svg#gh-dark-mode-only" /></p>
+        <p align="center"><img align="left" alt="OCalm" width="27px" src="https://github.com/ClaudioBotelhOSB/ClaudioBotelhOSB/blob/2022-1-update/icons/dark/programming%20languages/ocaml.svg#gh-dark-mode-only" /></p>
+        <p align="center"><img align="left" alt="Octave" width="27px" src="https://github.com/ClaudioBotelhOSB/ClaudioBotelhOSB/blob/2022-1-update/icons/dark/programming%20languages/octave.svg#gh-dark-mode-only" /></p>
+        <p align="center"><img align="left" alt="Perl" width="27px" src="https://github.com/ClaudioBotelhOSB/ClaudioBotelhOSB/blob/2022-1-update/icons/dark/programming%20languages/perl.svg#gh-dark-mode-only" /></p>
+        <p align="center"><img align="left" alt="PHP" width="27px" src="https://github.com/ClaudioBotelhOSB/ClaudioBotelhOSB/blob/2022-1-update/icons/dark/programming%20languages/php.svg#gh-dark-mode-only" /></p>
+        <p align="center"><img align="left" alt="Python" width="27px" src="https://github.com/ClaudioBotelhOSB/ClaudioBotelhOSB/blob/2022-1-update/icons/dark/programming%20languages/python.svg#gh-dark-mode-only" /></p>
+        <p align="center"><img align="left" alt="Ruby" width="27px" src="https://github.com/ClaudioBotelhOSB/ClaudioBotelhOSB/blob/2022-1-update/icons/dark/programming%20languages/ruby.svg#gh-dark-mode-only" /></p>
+        <p align="center"><img align="left" alt="Scala" width="27px" src="https://github.com/ClaudioBotelhOSB/ClaudioBotelhOSB/blob/2022-1-update/icons/dark/programming%20languages/scala.svg#gh-dark-mode-only" /></p>
+        <p align="center"><img align="left" alt="Swift" width="27px" src="https://github.com/ClaudioBotelhOSB/ClaudioBotelhOSB/blob/2022-1-update/icons/dark/programming%20languages/swift.svg#gh-dark-mode-only" /></p>
+        <p align="center"><img align="left" alt="Typescript" width="27px" src="https://github.com/ClaudioBotelhOSB/ClaudioBotelhOSB/blob/2022-1-update/icons/dark/programming%20languages/typescript.svg#gh-dark-mode-only" /></p>
       <br>
     </details>
       <br>
