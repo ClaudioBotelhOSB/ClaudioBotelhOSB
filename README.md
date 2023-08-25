@@ -52,7 +52,7 @@
    <br>
     <p align="left">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ansible,cloudflare,docker,kubernetes,git,github,githubactions,gitlab,jenkins,ansible,gradle,nginx,grafana,prometheus&perline=12"/>    
+        <img src="https://skillicons.dev/icons?i=cloudflare,docker,kubernetes,git,github,githubactions,gitlab,jenkins,ansible,gradle,nginx,grafana,prometheus&perline=12"/>    
       </a>
     </p>
   </details>
