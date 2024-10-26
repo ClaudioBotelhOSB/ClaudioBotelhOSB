@@ -12,12 +12,9 @@
   <summary> ☁️ Cloud Computing:</summary>
     <br>
     <p align="left" >
-      <a href="https://skillicons.dev">
-        <img media="(prefers-color-scheme: dark)" src="https://skillicons.dev/icons?i=aws,gcp,azure,heroku&perline=12"/>
-      </a>
       <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,gcp,azure,heroku&&perline=12&theme=dark">
-  <img alt="" src="https://skillicons.dev/icons?i=aws,gcp,azure,heroku&perline=12&theme=light">
+  <img media="(prefers-color-scheme: dark)" alt="" src="https://skillicons.dev/icons?i=aws,gcp,azure,heroku&perline=12&theme=dark">
+        <img media="(prefers-color-scheme: light)" alt="" src="https://skillicons.dev/icons?i=aws,gcp,azure,heroku&perline=12&theme=light">
 </picture>
     </p>
   </details>
