@@ -1,111 +1,38 @@
-- ☕ Studying, researching, and working every day in IT **+5 years**
-- 🔬 **Scientific Researcher** excited with new and old-school technologies
-- 💡 **Getting ideas** off the drawing board and putting them **into action**
-- 🏆 International programming competitor
-- 🎨 Multipotentialite skills & hobbies
-- 🚴 Amateur athlete
+# Olá, eu sou o Claudio Botelho! 👋
+
+### Senior DevSecOps & SRE Engineer | Cloud Solutions Architect
+
+Sou um especialista em construir e proteger ecossistemas cloud complexos, combinando uma mentalidade SRE de confiabilidade com a agilidade do DevOps e a segurança proativa do DevSecOps. Minha paixão é transformar desafios de infraestrutura em soluções automatizadas, resilientes e de alta performance.
 
 ---
-<!-- Cloud Computing -->
-<h4>
-  <details>
-  <summary> ☁️ Cloud Computing:</summary>
-    <br>
-    <p align="left" >
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=aws,gcp,azure,heroku&perline=12"/>
-      </a>
-    </p>
-  </details>
-</h4>
 
-<!-- Back-end & Frameworks -->
-<h4>
-<details>
-  <summary> 💻 Back-end Languages & Frameworks:</summary>
-  <br>
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cpp,py,django,dotnet,go,haskell,java,js,fortran,kotlin,laravel,matlab,octave,nodejs,php,ruby,spring,wasm,ts,express,flask&perline=12"/>
-    </a>
-  </p>
-</details>
-</h4>
+### 🔧 Stack de Tecnologias & Ferramentas
 
-<!-- Front-end & Frameworks -->
-<h4>
-  <details>
-  <summary>✒️ Front-end Tools & Frameworks:</summary>
-    <br>
-    <p align="left">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,d3,nestjs,nextjs,react,jquery,react,reactivex,rails,sass,vercel,threejs,webflow,wordpress,processing,gulp&perline=12"/>
-      </a>
-    </p>
-  </details>
-</h4>
+Aqui estão as principais tecnologias com as quais trabalho diariamente:
 
-<!-- DevOps -->
-<h4>
-  <details>
-  <summary> 🛠️ DevOps:</summary>
-   <br>
-    <p align="left">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cloudflare,docker,kubernetes,git,github,githubactions,gitlab,jenkins,ansible,gradle,nginx,grafana,prometheus&perline=12"/>    
-      </a>
-    </p>
-  </details>
-</h4>
+- **Cloud & Infraestrutura:** AWS, Azure, GCP
+- **Infraestrutura como Código (IaC):** Terraform, Ansible, Pulumi
+- **Contêineres & Orquestração:** Docker, Kubernetes, Helm
+- **CI/CD & Automação:** GitHub Actions, GitLab CI, Argo CD
+- **Segurança (DevSecOps):** Zero Trust, Snyk, SonarQube, Trivy, Gestão de Identidade (IAM)
+- **Observabilidade & Monitoramento:** Prometheus, Grafana, Datadog, OpenSearch
+- **Linguagens:** Python, Go (Golang), Bash
 
-<!-- IoT & Mobile -->
-<h4>
-  <details>
-  <summary> 📱 IoT & Mobile:</summary>
-    <br>
-    <p align="left">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=androidstudio,dart,flutter,arduino,raspberrypi,swift&perline=12"/>
-      </a>
-    </p>
-  </details>
-</h4>
+---
 
-<!-- Automation & QA -->
-<h4>
-  <details>
-  <summary> 🎯 Automation & QA:</summary>
-    <br>
-    <p align="left">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=jest,gulp,gherkin,selenium&perline=12"/>
-      </a>
-    </p>
-  </details>
-</h4>
+### 🚀 Projetos em Destaque
 
-<!-- Design & Audiovisual -->
-<h4>
-  <details>
-  <summary> 🎬 Design & Audiovisual:</summary>
-    <br>
-      <p align="left">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=blender,figma,ae,au,ai,ps,pr,xd&perline=12"/>
-        </a>
-      </p>
-  </details>
-</h4>
+Aqui estão alguns projetos que demonstram a minha experiência na prática. Sinta-se à vontade para explorar!
 
-<!-- BigData & Machine Learning -->
-<h4>
-  <details>
-  <summary> 📊 Data Base & AI:</summary>
-      <br>
-        <p align="left">
-          <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,dynamodb,sqlite,kafka,pytorch,tensorflow,scala,graphql&perline=12"/>
-          </a>
-        </p>
-  </details>
-</h4>
+| Projeto | Descrição | Tecnologias Utilizadas | Link |
+| :--- | :--- | :--- | :--- |
+| **Mental Health Tracker App** | Um case de estudo completo de uma aplicação web, desde o backend em Python/Go até o deploy numa arquitetura SRE/DevSecOps na AWS, com IaC e pipeline de CI/CD. | `Terraform` `Docker` `Kubernetes` `GitHub Actions` `AWS` `Python` `Snyk` | [Link para o Repositório] |
+| **Expert Integrado (Plano)** | Planeamento estratégico e técnico para a modernização completa de uma infraestrutura crítica, focando em resiliência, segurança e automação. | `Planejamento Estratégico` `SRE` `DevSecOps` `Arquitetura de Soluções` | [Link para o Repositório com o PDF] |
+| **Competitive Programming** | Repositório com soluções para desafios de algoritmos e estruturas de dados de competições como ICPC e Google Code Jam. | `Algoritmos` `Estrutura de Dados` `Python` `C++` | [Link para o Repositório] |
+
+---
+
+### 📫 Como me encontrar:
+
+- **LinkedIn:** [Link para o seu Perfil do LinkedIn]
+- **E-mail:** [Seu E-mail Profissional]
