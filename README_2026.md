@@ -145,18 +145,33 @@ With a background in **competitive programming** (ICPC International Competitor)
 **Problem:** Manual deployments, 4-hour release cycles, zero observability
 **Solution:** GitOps-driven platform on AKS with ArgoCD, Prometheus, and automated security scanning
 
-```
-┌─────────────────────────────────────────────────┐
-│                   GitOps Flow                   │
-├─────────────────────────────────────────────────┤
-│  Developer → PR → CI Pipeline → ArgoCD → AKS   │
-│      │                             │            │
-│      └── Security Scan ←──────────┘            │
-│                   ↓                             │
-│           Prometheus + Grafana                  │
-│                   ↓                             │
-│           PagerDuty Alerts                      │
-└─────────────────────────────────────────────────┘
+```mermaid
+flowchart LR
+    subgraph DEV["👨‍💻 Development"]
+        A[Developer] --> B[Pull Request]
+    end
+
+    subgraph CI["⚙️ CI Pipeline"]
+        B --> C[Build & Test]
+        C --> D[Security Scan]
+        D --> E[Container Registry]
+    end
+
+    subgraph CD["🚀 GitOps"]
+        E --> F[ArgoCD]
+        F --> G[AKS Cluster]
+    end
+
+    subgraph OBS["📊 Observability"]
+        G --> H[Prometheus]
+        H --> I[Grafana]
+        I --> J[PagerDuty]
+    end
+
+    style DEV fill:#1a1a2e,stroke:#58a6ff,color:#fff
+    style CI fill:#16213e,stroke:#58a6ff,color:#fff
+    style CD fill:#0f3460,stroke:#58a6ff,color:#fff
+    style OBS fill:#1a1a2e,stroke:#58a6ff,color:#fff
 ```
 
 **Impact:**
@@ -171,21 +186,36 @@ With a background in **competitive programming** (ICPC International Competitor)
 **Problem:** Flat network, shared credentials, compliance gaps
 **Solution:** Network segmentation, HashiCorp Vault integration, automated compliance checks
 
-```
-┌─────────────────────────────────────────────────┐
-│              Zero Trust Architecture            │
-├─────────────────────────────────────────────────┤
-│  ┌─────────┐    ┌─────────┐    ┌─────────┐    │
-│  │  User   │───▶│  IdP    │───▶│  RBAC   │    │
-│  └─────────┘    └─────────┘    └─────────┘    │
-│                                     │          │
-│       ┌─────────────────────────────┘          │
-│       ▼                                        │
-│  ┌─────────┐    ┌─────────┐    ┌─────────┐    │
-│  │ Vault   │───▶│ Service │───▶│   DB    │    │
-│  │(Secrets)│    │  Mesh   │    │(Encrypt)│    │
-│  └─────────┘    └─────────┘    └─────────┘    │
-└─────────────────────────────────────────────────┘
+```mermaid
+flowchart TB
+    subgraph AUTH["🔐 Authentication Layer"]
+        A[User Request] --> B[Identity Provider]
+        B --> C{MFA Check}
+        C -->|Valid| D[RBAC Policy Engine]
+        C -->|Invalid| X[Access Denied]
+    end
+
+    subgraph SECRETS["🔑 Secrets Management"]
+        D --> E[HashiCorp Vault]
+        E --> F[Dynamic Credentials]
+    end
+
+    subgraph NETWORK["🛡️ Network Security"]
+        F --> G[Service Mesh]
+        G --> H[mTLS Encryption]
+    end
+
+    subgraph DATA["💾 Data Layer"]
+        H --> I[(Encrypted Database)]
+        I --> J[Audit Logs]
+    end
+
+    J --> K[SIEM / Compliance]
+
+    style AUTH fill:#1a1a2e,stroke:#ff6b6b,color:#fff
+    style SECRETS fill:#16213e,stroke:#ffd93d,color:#fff
+    style NETWORK fill:#0f3460,stroke:#6bcb77,color:#fff
+    style DATA fill:#1a1a2e,stroke:#4d96ff,color:#fff
 ```
 
 **Impact:**
