@@ -7,14 +7,10 @@
 <!-- HERO SECTION -->
 <div align="center">
 
-<!-- BANNER: Substitua por um banner personalizado ou use o typing SVG abaixo -->
-<!-- Sugestão: Banner minimalista dark com seu nome + tagline em fonte moderna -->
-<!-- Ferramentas: Canva, Figma ou https://leviarista.github.io/github-profile-header-generator/ -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Claudio%20Botelho&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Senior%20DevSecOps%20%26%20Cloud%20Architect&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- TAGLINE -->
-### Building secure, scalable infrastructure that lets engineering teams ship faster
+### Engineering secure, scalable infrastructure that accelerates release velocity.
 
 <br/>
 
@@ -28,9 +24,10 @@
 <br/>
 
 <!-- SOCIAL LINKS -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/claudiobotelho)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://seusite.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudiosb/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:botelho.claudiosb@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/ClaudioBotelhOSB)
 
 </div>
 
@@ -41,15 +38,15 @@
 <!-- ABOUT ME - Business First -->
 ## Who I Am
 
-```
+```text
 DevSecOps Engineer × Cloud Architect × Problem Solver
 ```
 
-I'm a **Senior DevSecOps Engineer** with deep expertise in **Multi-Cloud Architecture** (AWS/Azure), **Kubernetes**, and **Security Automation**. I specialize in designing infrastructure that is secure by default, cost-optimized, and built to scale.
+I am a **Senior DevSecOps Engineer** and **Cloud Architect** delivering expertise in **Multi-Cloud Architecture** (AWS/Azure), **Kubernetes Orchestration**, and **Zero-Trust Security Automation**. I engineer resilient, cost-optimized infrastructures that are secure by design and scale seamlessly under peak loads.
 
-With a background in **competitive programming** (ICPC International Competitor), I bring algorithmic thinking and performance optimization to every infrastructure challenge.
+Leveraging a rigorous background in **competitive programming** (ICPC International Competitor), I apply algorithmic problem-solving to eliminate bottlenecks, optimize resource utilization, and architect high-performance data systems.
 
-> **I don't just deploy infrastructure — I architect systems that reduce operational burden and accelerate delivery.**
+> **I do not merely deploy infrastructure—I engineer automated platforms that slash operational overhead and accelerate business delivery.**
 
 <br/>
 
@@ -58,29 +55,20 @@ With a background in **competitive programming** (ICPC International Competitor)
 <!-- WHAT I SOLVE - Value Proposition -->
 ## What I Solve
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### For CTOs & Engineering Leaders
 
-- **Slow Deployments?** → I design CI/CD pipelines that cut release cycles from days to minutes
-- **Cloud Costs Exploding?** → I implement FinOps practices and right-sizing that reduce bills by 30-50%
-- **Security Concerns?** → I build Zero Trust architectures and automate compliance (SOC2, ISO27001)
-- **Scaling Bottlenecks?** → I architect auto-scaling Kubernetes clusters that handle 10x traffic spikes
+- **Sluggish Deployment Cycles?** → I engineer robust CI/CD pipelines that slash release times from days to minutes.
+- **Runaway Cloud Expenses?** → I implement strategic FinOps frameworks and infrastructure right-sizing, driving down operational costs by 30-50%.
+- **Vulnerable Security Posture?** → I architect Zero-Trust environments and automate compliance (SOC2, ISO27001), rendering infrastructure secure by default.
+- **Critical Scaling Bottlenecks?** → I design resilient, auto-scaling Kubernetes clusters capable of seamlessly absorbing 10x traffic surges.
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
 ### For Founders & Startups
 
-- **Need to ship fast without breaking things?** → Production-ready infrastructure from day one
-- **Growing team, growing chaos?** → Platform engineering that gives devs autonomy with guardrails
-- **Preparing for due diligence?** → Security posture and documentation that satisfies investors
-
-</td>
-</tr>
-</table>
+- **Speed to Market with Reliability?** → I deliver battle-tested, production-ready infrastructure from day one.
+- **Operational Chaos in Scaling Teams?** → I establish Internal Developer Platforms (IDP) that empower developers with autonomy while enforcing strict architectural guardrails.
+- **Due Diligence Readiness?** → I forge enterprise-grade security postures and comprehensive documentation to confidently satisfy investor scrutiny.
 
 <br/>
 
@@ -111,20 +99,17 @@ With a background in **competitive programming** (ICPC International Competitor)
 
 <div align="center">
 
-<!-- Adicione suas certificações reais aqui -->
-<!-- Exemplo de layout: -->
-
 | Certification | Status |
 |:-------------:|:------:|
-| ![CKA](https://img.shields.io/badge/CKA-Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | `Certified` |
-| ![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white) | `Certified` |
-| ![Azure](https://img.shields.io/badge/Azure-Administrator_(AZ--104)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) | `Certified` |
-| ![Terraform](https://img.shields.io/badge/Terraform-Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) | `Certified` |
+| ![CKA](https://img.shields.io/badge/CKA-Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | `In Progress (Target: Q4 2026)` |
+| ![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white) | `In Progress (Target: Q3 2026)` |
+| ![Azure](https://img.shields.io/badge/Azure-Administrator_(AZ--104)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) | `Hands-on Expertise` |
+| ![Terraform](https://img.shields.io/badge/Terraform-Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) | `Hands-on Expertise` |
 
 <br/>
 
 **Competitive Programming Background:**
-**ICPC International Collegiate Programming Contest** — Developed strong algorithmic problem-solving skills that I apply to infrastructure optimization and automation challenges.
+**ICPC International Collegiate Programming Contest** — Developed strong algorithmic problem-solving skills that I actively apply to structural optimization and complex infrastructure challenges.
 
 </div>
 
@@ -135,15 +120,11 @@ With a background in **competitive programming** (ICPC International Competitor)
 <!-- FEATURED WORK -->
 ## Featured Work
 
-> Infrastructure projects often lack visual appeal, but here's how I showcase impact:
-
-<table>
-<tr>
-<td width="50%" valign="top">
+> **Infrastructure projects often lack visual appeal, but here is how I drive measurable business impact:**
 
 ### Multi-Cloud Kubernetes Platform
-**Problem:** Manual deployments, 4-hour release cycles, zero observability
-**Solution:** GitOps-driven platform on AKS with ArgoCD, Prometheus, and automated security scanning
+**Business Challenge:** Manual deployment workflows resulting in brittle, 4-hour release cycles and zero operational visibility.
+**Architectural Solution:** Engineered a GitOps-driven Internal Developer Platform on AKS, leveraging ArgoCD for continuous delivery, Prometheus for observability, and automated security scanning.
 
 ```mermaid
 flowchart LR
@@ -167,24 +148,18 @@ flowchart LR
         H --> I[Grafana]
         I --> J[PagerDuty]
     end
-
-    style DEV fill:#1a1a2e,stroke:#58a6ff,color:#fff
-    style CI fill:#16213e,stroke:#58a6ff,color:#fff
-    style CD fill:#0f3460,stroke:#58a6ff,color:#fff
-    style OBS fill:#1a1a2e,stroke:#58a6ff,color:#fff
 ```
 
-**Impact:**
-- Release cycle: **4 hours → 15 minutes**
-- Deployment failures: **-80%**
-- MTTR: **-65%**
+**Business Impact:**
+- Release Cycle Time: **4 hours → 15 minutes**
+- Deployment Variance/Failures: **-80%**
+- Mean Time to Recovery (MTTR): **-65%**
 
-</td>
-<td width="50%" valign="top">
+---
 
 ### Zero Trust Security Implementation
-**Problem:** Flat network, shared credentials, compliance gaps
-**Solution:** Network segmentation, HashiCorp Vault integration, automated compliance checks
+**Business Challenge:** Flat network topology, decentralized credential management, and critical compliance vulnerabilities.
+**Architectural Solution:** Spearheaded network segmentation and implemented HashiCorp Vault for dynamic secrets management, establishing a comprehensive Zero-Trust architecture with automated compliance validation.
 
 ```mermaid
 flowchart TB
@@ -211,21 +186,19 @@ flowchart TB
     end
 
     J --> K[SIEM / Compliance]
-
-    style AUTH fill:#1a1a2e,stroke:#ff6b6b,color:#fff
-    style SECRETS fill:#16213e,stroke:#ffd93d,color:#fff
-    style NETWORK fill:#0f3460,stroke:#6bcb77,color:#fff
-    style DATA fill:#1a1a2e,stroke:#4d96ff,color:#fff
 ```
 
-**Impact:**
-- Security incidents: **-90%**
-- Audit preparation time: **3 weeks → 2 days**
-- SOC2 Type II: **Achieved**
+**Business Impact:**
+- Security Incidents: **-90%**
+- Audit Preparation Overhead: **3 weeks → 2 days**
+- Compliance Milestones: **SOC2 Type II Achieved**
 
-</td>
-</tr>
-</table>
+---
+
+### 🚀 Coming Soon: Azimuth (B2B SaaS Platform)
+🚀 Coming Soon: Azimuth (Consumer SaaS)
+As the Creator & Sole Architect, I engineered a predictive productivity app designed to help neurodivergent and neurotypical users translate their personal energy constraints into sustainable performance. Built entirely from scratch, Azimuth operates as a live benchmark of my engineering standards—rigorously applying Cloud Native architecture for seamless B2C scalability and Zero Trust security to protect highly sensitive user data.
+
 
 <br/>
 
@@ -238,19 +211,19 @@ flowchart TB
 
 | Engagement Model | Best For |
 |:----------------:|:---------|
-| **Consulting** | Architecture reviews, security assessments, cloud migration strategy |
-| **Fractional DevOps/Platform Lead** | Startups needing senior expertise without full-time cost |
-| **Project-Based** | Specific deliverables: CI/CD pipelines, Kubernetes setup, compliance automation |
-| **Staff Augmentation** | Embedded with your team for high-impact initiatives |
+| **Consulting** | Strategic architecture reviews, vulnerability assessments, and cloud migration roadmaps. |
+| **Fractional DevOps/Platform Lead** | Executive-level platform strategy for startups seeking senior expertise without the full-time overhead. |
+| **Project-Based** | Targeted execution of mission-critical tasks: advanced CI/CD pipelines, K8s cluster design, and compliance automation. |
+| **Staff Augmentation** | Embedded senior technical leadership to supercharge high-impact engineering initiatives. |
 
 <br/>
 
 ### Currently Available for:
 
 ```diff
-+ B2B Contracts / Consulting Projects
++ B2B Contracts / High-Impact Consulting Projects
 + Staff Augmentation (Remote, Worldwide)
-+ Technical Advisory Roles
++ Technical Advisory & Fractional Lead Roles
 ```
 
 </div>
@@ -262,19 +235,20 @@ flowchart TB
 <!-- CALL TO ACTION -->
 <div align="center">
 
-## Let's Build Something Secure & Scalable
+## Let's Engineer Your Next Strategic Advantage
 
 <br/>
 
-[![Schedule a Call](https://img.shields.io/badge/Schedule_a_Call-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/seu-link)
+<!-- 🚨 ACTION REQUIRED: UPDATE CALL TO ACTION LINKS -->
+[![Schedule a Call](https://img.shields.io/badge/Schedule_a_Call-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://YOUR_CALENDLY_LINK_HERE_🚨)
 &nbsp;&nbsp;
-[![Send Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+[![Send Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE_🚨)
 &nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/claudiobotelho)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://YOUR_LINKEDIN_HERE_🚨)
 
 <br/>
 
-**"Infrastructure should be an accelerator, not a bottleneck."**
+**"Infrastructure should be a business accelerator, not an operational bottleneck."**
 
 </div>
 
@@ -288,13 +262,13 @@ flowchart TB
 <br/>
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaudioBotelhOSB&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaudioBotelhOSB&show_icons=true"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioBotelhOSB&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioBotelhOSB&layout=compact"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ClaudioBotelhOSB&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ClaudioBotelhOSB"/>
 
 </div>
 </details>
@@ -308,32 +282,32 @@ flowchart TB
 
 #### Cloud Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
 </p>
 
 #### Infrastructure as Code
 <p>
-<img src="https://skillicons.dev/icons?i=terraform,ansible,kubernetes,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=terraform,ansible,kubernetes,docker" />
 </p>
 
 #### CI/CD & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins,github" />
 </p>
 
 #### Programming & Scripting
 <p>
-<img src="https://skillicons.dev/icons?i=python,go,typescript,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,go,typescript,bash" />
 </p>
 
 #### Observability & Monitoring
 <p>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 </p>
 
 #### Databases
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,dynamodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,dynamodb" />
 </p>
 
 </div>
