@@ -1,9 +1,13 @@
+<!--
+  ╔═══════════════════════════════════════════════════════════════════════════╗
+  ║  README 2026 - Claudio Botelho | Senior DevSecOps & Cloud Architect       ║
+  ╚═══════════════════════════════════════════════════════════════════════════╝
+-->
+
 <!-- HERO SECTION -->
 <div align="center">
 
-<a href="https://github.com/ClaudioBotelhOSB">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&duration=2000&size=35&pause=1000&color=3B84F7FF&center=true&vCenter=true&width=800&height=120&lines=Claudio+Botelho;Senior+DevSecOps+Engineer;Cloud+Architect;B2B+Consultant" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Claudio%20Botelho&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Senior%20DevSecOps%20%26%20Cloud%20Architect&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- TAGLINE -->
 ### Engineering secure, scalable infrastructure that accelerates release velocity.
@@ -11,7 +15,9 @@
 <br/>
 
 <!-- QUICK STATS BADGES -->
-[![Years in Tech](https://img.shields.io/badge/YEARS_IN_TECH-5+-58a6ff?style=for-the-badge&logo=target&logoColor=white)](https://github.com/ClaudioBotelhOSB)
+[![Profile Views](https://komarev.com/ghpvc/?username=ClaudioBotelhOSB&style=for-the-badge&color=161b22&label=PROFILE+VIEWS)](https://github.com/ClaudioBotelhOSB)
+&nbsp;
+[![Years in Tech](https://img.shields.io/badge/YEARS_IN_TECH-7+-58a6ff?style=for-the-badge&logo=target&logoColor=white)](https://github.com/ClaudioBotelhOSB)
 &nbsp;
 [![ICPC Competitor](https://img.shields.io/badge/ICPC-COMPETITOR-ff6b6b?style=for-the-badge&logo=codeforces&logoColor=white)](https://icpc.global/)
 
@@ -30,7 +36,7 @@
 ---
 
 <!-- ABOUT ME - Business First -->
-## 👤 Who I Am
+## Who I Am
 
 ```text
 DevSecOps Engineer × Cloud Architect × Problem Solver
@@ -38,7 +44,7 @@ DevSecOps Engineer × Cloud Architect × Problem Solver
 
 I am a **Senior DevSecOps Engineer** and **Cloud Architect** delivering expertise in **Multi-Cloud Architecture** (AWS/Azure), **Kubernetes Orchestration**, and **Zero-Trust Security Automation**. I engineer resilient, cost-optimized infrastructures that are secure by design and scale seamlessly under peak loads.
 
-Leveraging a rigorous background in *competitive programming* (ICPC International Competitor), I apply algorithmic problem-solving to eliminate bottlenecks and architect high-performance infrastructures. *Furthermore, I bring a strong data-engineering approach to DevSecOps*, building custom telemetry and automated incident-response pipelines that transform raw database metrics and access logs into actionable business intelligence and automated threat hunting.
+Leveraging a rigorous background in **competitive programming** (ICPC International Competitor), I apply algorithmic problem-solving to eliminate bottlenecks, optimize resource utilization, and architect high-performance data systems.
 
 > **I do not merely deploy infrastructure—I engineer automated platforms that slash operational overhead and accelerate business delivery.**
 
@@ -47,12 +53,10 @@ Leveraging a rigorous background in *competitive programming* (ICPC Internationa
 ---
 
 <!-- WHAT I SOLVE - Value Proposition -->
-## 🎯 What I Solve
+## What I Solve
 
 ### For CTOs & Engineering Leaders
 
-- **Blind Spots in Business & App Metrics?** → I engineer custom data pipelines (Python/SQL) that extract and process end-to-end application telemetry, turning raw database queries into real-time business intelligence (usage volume, data flows, and user behavior).
-- **Slow Incident Response & Forensics?** → I develop automated Threat Hunting tools that ingest a single anomaly alert and instantly compile comprehensive forensic reports—correlating user activity, geolocating IPs, cross-referencing global blacklists, and isolating malicious actors in seconds.
 - **Sluggish Deployment Cycles?** → I engineer robust CI/CD pipelines that slash release times from days to minutes.
 - **Runaway Cloud Expenses?** → I implement strategic FinOps frameworks and infrastructure right-sizing, driving down operational costs by 30-50%.
 - **Vulnerable Security Posture?** → I architect Zero-Trust environments and automate compliance (SOC2, ISO27001), rendering infrastructure secure by default.
@@ -71,7 +75,7 @@ Leveraging a rigorous background in *competitive programming* (ICPC Internationa
 ---
 
 <!-- EXPERTISE DOMAINS -->
-## ⚡ Core Expertise
+## Core Expertise
 
 <div align="center">
 
@@ -90,8 +94,31 @@ Leveraging a rigorous background in *competitive programming* (ICPC Internationa
 
 ---
 
+<!-- CERTIFICATIONS & CREDENTIALS -->
+## Certifications & Credentials
+
+<div align="center">
+
+| Certification | Status |
+|:-------------:|:------:|
+| ![CKA](https://img.shields.io/badge/CKA-Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | `In Progress (Target: Q4 2026)` |
+| ![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white) | `In Progress (Target: Q3 2026)` |
+| ![Azure](https://img.shields.io/badge/Azure-Administrator_(AZ--104)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) | `Hands-on Expertise` |
+| ![Terraform](https://img.shields.io/badge/Terraform-Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) | `Hands-on Expertise` |
+
+<br/>
+
+**Competitive Programming Background:**
+**ICPC International Collegiate Programming Contest** — Developed strong algorithmic problem-solving skills that I actively apply to structural optimization and complex infrastructure challenges.
+
+</div>
+
+<br/>
+
+---
+
 <!-- FEATURED WORK -->
-## 🚀 Featured Work
+## Featured Work
 
 > **Infrastructure projects often lack visual appeal, but here is how I drive measurable business impact:**
 
@@ -100,73 +127,27 @@ Leveraging a rigorous background in *competitive programming* (ICPC Internationa
 **Architectural Solution:** Engineered a GitOps-driven Internal Developer Platform on AKS, leveraging ArgoCD for continuous delivery, Prometheus for observability, and automated security scanning.
 
 ```mermaid
-flowchart TD
-    classDef devStyle fill:#0d1f38,stroke:#58a6ff,color:#cae6ff,rx:8;
-    classDef ciStyle fill:#0d1f0d,stroke:#3fb950,color:#ccffd4,rx:8;
-    classDef secStyle fill:#2b0d0d,stroke:#f85149,color:#ffd0cc,rx:8;
-    classDef regStyle fill:#1a0d2e,stroke:#bc8cff,color:#eddeff,rx:8;
-    classDef gitopsStyle fill:#0d1f38,stroke:#79c0ff,color:#cae6ff,rx:8;
-    classDef cloudStyle fill:#051520,stroke:#1f6feb,color:#a5d6ff,rx:8;
-    classDef obsStyle fill:#1f1200,stroke:#d29922,color:#ffe8a0,rx:8;
-    classDef alertStyle fill:#1f0a00,stroke:#db6d28,color:#ffd8b0,rx:8;
-
-    subgraph DEV["fa:fa-laptop-code Developer Workflow"]
-        direction LR
-        A["fa:fa-user-circle Engineer<br>VS Code · Copilot"] -->|"git push"| B["fa:fa-code-branch Pull Request<br>Branch Protection"]
+flowchart LR
+    subgraph DEV["👨‍💻 Development"]
+        A[Developer] --> B[Pull Request]
     end
 
-    subgraph CI["fa:fa-cogs CI Pipeline · GitHub Actions"]
-        direction LR
-        C["fa:fa-hammer Build & Test<br>pytest · Jest"] -->|"tests pass"| D["fa:fa-shield-alt SAST & SCA<br>SonarQube · Trivy"]
-        D -->|"vuln score OK"| E["fa:fa-file-contract Policy Gate<br>OPA Conftest"]
+    subgraph CI["⚙️ CI Pipeline"]
+        B --> C[Build & Test]
+        C --> D[Security Scan]
+        D --> E[Container Registry]
     end
 
-    subgraph REG["fa:fa-archive Artifact Management"]
-        direction LR
-        F["fa:fa-docker Container Registry<br>Azure ACR · AWS ECR"] -->|"sign & attest"| G["fa:fa-lock Image Signing<br>Cosign"]
+    subgraph CD["🚀 GitOps"]
+        E --> F[ArgoCD]
+        F --> G[AKS Cluster]
     end
 
-    subgraph GITOPS["fa:fa-sync GitOps Control Plane"]
-        direction LR
-        H["fa:fa-git-alt Config Repository<br>Helm Charts · Kustomize"] -->|"PR merged → reconcile"| I["fa:fa-redo ArgoCD<br>App of Apps"]
+    subgraph OBS["📊 Observability"]
+        G --> H[Prometheus]
+        H --> I[Grafana]
+        I --> J[PagerDuty]
     end
-
-    subgraph CLOUD["fa:fa-cloud Multi-Cloud Kubernetes Layer"]
-        direction LR
-        J["fa:fa-microsoft AKS<br>Azure"] --- L["fa:fa-network-wired Service Mesh<br>Istio mTLS"]
-        K["fa:fa-aws EKS<br>AWS"] --- L
-    end
-
-    subgraph OBS["fa:fa-chart-line Observability Platform"]
-        direction LR
-        M["fa:fa-tachometer-alt Metrics<br>Prometheus"] --> P["fa:fa-desktop Dashboards<br>Grafana Cloud"]
-        N["fa:fa-sitemap Tracing<br>OpenTelemetry"] --> P
-        O["fa:fa-list Logging<br>Fluentd · Loki"] --> P
-    end
-
-    subgraph INC["fa:fa-bell Incident & Response"]
-        direction LR
-        Q["fa:fa-exclamation-triangle Alerting<br>PagerDuty"] -->|"trigger runbook"| R["fa:fa-wrench Auto-Remediation<br>Ansible"]
-    end
-
-    B -->|"webhook trigger"| C;
-    E -->|"push verified image"| F;
-    G -->|"CI pipeline commits new digest"| H;
-    I -->|"apply manifests"| J;
-    I -->|"apply manifests"| K;
-    L --> M;
-    L --> N;
-    L --> O;
-    P -->|"threshold breach"| Q;
-
-    class A,B devStyle;
-    class C ciStyle;
-    class D,E,G secStyle;
-    class F regStyle;
-    class H,I gitopsStyle;
-    class J,K,L cloudStyle;
-    class M,N,O,P obsStyle;
-    class Q,R alertStyle;
 ```
 
 **Business Impact:**
@@ -177,50 +158,34 @@ flowchart TD
 ---
 
 ### Zero Trust Security Implementation
-**Business Challenge:** Flat network topology resulting in lateral movement risks, decentralized credential sprawl, and critical audit vulnerabilities blocking enterprise compliance.
-
-**Architectural Solution:** Engineered a comprehensive Zero-Trust architecture by enforcing strict network micro-segmentation, integrating HashiCorp Vault for dynamic secrets, and building automated threat-hunting pipelines to guarantee continuous SOC2 compliance and real-time anomaly detection.
+**Business Challenge:** Flat network topology, decentralized credential management, and critical compliance vulnerabilities.
+**Architectural Solution:** Spearheaded network segmentation and implemented HashiCorp Vault for dynamic secrets management, establishing a comprehensive Zero-Trust architecture with automated compliance validation.
 
 ```mermaid
-flowchart TD
-    classDef authStyle fill:#0d1f38,stroke:#58a6ff,color:#cae6ff,rx:8;
-    classDef secretStyle fill:#1f1200,stroke:#d29922,color:#ffe8a0,rx:8;
-    classDef netStyle fill:#1a0d2e,stroke:#bc8cff,color:#eddeff,rx:8;
-    classDef dataStyle fill:#051520,stroke:#1f6feb,color:#a5d6ff,rx:8;
-    classDef siemStyle fill:#2b0d0d,stroke:#f85149,color:#ffd0cc,rx:8;
-
-    subgraph AUTH["fa:fa-id-card Identity & Access Management (IAM)"]
-        A["fa:fa-user-shield Client / App Request<br>API Gateway"] --> B["fa:fa-id-badge Identity Provider<br>Okta · Entra ID"]
-        B --> C{"fa:fa-fingerprint<br>Contextual<br>MFA Check"}
-        C -->|"Valid Token"| D["fa:fa-balance-scale Policy Engine<br>OPA · ABAC/RBAC"]
-        C -->|"Failed"| X["fa:fa-ban Access Denied"]
+flowchart TB
+    subgraph AUTH["🔐 Authentication Layer"]
+        A[User Request] --> B[Identity Provider]
+        B --> C{MFA Check}
+        C -->|Valid| D[RBAC Policy Engine]
+        C -->|Invalid| X[Access Denied]
     end
 
-    subgraph SECRETS["fa:fa-key Dynamic Secrets & Vault"]
-        D -->|"Request access"| E["fa:fa-lock HashiCorp Vault<br>Secrets Engine"]
-        E -->|"Issue TTL Token"| F["fa:fa-stopwatch Dynamic Credentials<br>Short-lived DB Roles"]
+    subgraph SECRETS["🔑 Secrets Management"]
+        D --> E[HashiCorp Vault]
+        E --> F[Dynamic Credentials]
     end
 
-    subgraph NETWORK["fa:fa-network-wired Zero-Trust Network"]
-        F -->|"Authenticate"| G["fa:fa-project-diagram Service Mesh<br>Istio"]
-        G --- H["fa:fa-shield-alt mTLS Encryption<br>End-to-End"]
+    subgraph NETWORK["🛡️ Network Security"]
+        F --> G[Service Mesh]
+        G --> H[mTLS Encryption]
     end
 
-    subgraph DATA["fa:fa-database Secure Data Layer"]
-        H -->|"Encrypted payload"| I[("fa:fa-server Encrypted Storage<br>AWS KMS · AES-256")]
-        I -->|"Emit logs"| J["fa:fa-file-signature Audit Telemetry<br>CloudTrail · Auditd"]
+    subgraph DATA["💾 Data Layer"]
+        H --> I[(Encrypted Database)]
+        I --> J[Audit Logs]
     end
 
-    subgraph SIEM["fa:fa-search Continuous Compliance & Threat Hunting"]
-        J --> K["fa:fa-microchip SIEM & Auto-Remediation<br>Datadog Security · Splunk"]
-        X -->|"Alert Trigger"| K
-    end
-
-    class A,B,C,D,X authStyle;
-    class E,F secretStyle;
-    class G,H netStyle;
-    class I,J dataStyle;
-    class K siemStyle;
+    J --> K[SIEM / Compliance]
 ```
 
 **Business Impact:**
@@ -231,6 +196,7 @@ flowchart TD
 ---
 
 ### 🚀 Coming Soon: Azimuth (B2B SaaS Platform)
+🚀 Coming Soon: Azimuth (Consumer SaaS)
 As the Creator & Sole Architect, I engineered a predictive productivity app designed to help neurodivergent and neurotypical users translate their personal energy constraints into sustainable performance. Built entirely from scratch, Azimuth operates as a live benchmark of my engineering standards—rigorously applying Cloud Native architecture for seamless B2C scalability and Zero Trust security to protect highly sensitive user data.
 
 
@@ -273,10 +239,12 @@ As the Creator & Sole Architect, I engineered a predictive productivity app desi
 
 <br/>
 
+<!-- 🚨 ACTION REQUIRED: UPDATE CALL TO ACTION LINKS -->
+[![Schedule a Call](https://img.shields.io/badge/Schedule_a_Call-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://YOUR_CALENDLY_LINK_HERE_🚨)
 &nbsp;&nbsp;
-[![Send Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:botelho.claudiosb@gmail.com)
+[![Send Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE_🚨)
 &nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudiosb/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://YOUR_LINKEDIN_HERE_🚨)
 
 <br/>
 
@@ -287,6 +255,24 @@ As the Creator & Sole Architect, I engineered a predictive productivity app desi
 <br/>
 
 ---
+
+<!-- GITHUB STATS - Opcional -->
+<details>
+<summary><b>GitHub Analytics</b></summary>
+<br/>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaudioBotelhOSB&show_icons=true"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioBotelhOSB&layout=compact"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ClaudioBotelhOSB"/>
+
+</div>
+</details>
+
 <!-- DETAILED TECH STACK - Expandable -->
 <details>
 <summary><b>Full Technology Stack</b></summary>
