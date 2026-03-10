@@ -99,6 +99,7 @@ Leveraging a rigorous background in *competitive programming* (ICPC Internationa
 **Business Challenge:** Manual deployment workflows resulting in brittle, 4-hour release cycles and zero operational visibility.
 **Architectural Solution:** Engineered a GitOps-driven Internal Developer Platform on AKS, leveraging ArgoCD for continuous delivery, Prometheus for observability, and automated security scanning.
 
+```mermaid
 flowchart TD
     classDef devStyle    fill:#0d1f38,stroke:#58a6ff,color:#cae6ff,rx:8
     classDef ciStyle     fill:#0d1f0d,stroke:#3fb950,color:#ccffd4,rx:8
@@ -167,6 +168,7 @@ flowchart TD
     class M,N,O,P     obsStyle
     class Q,R         alertStyle
     class D,E,G       secStyle
+```
 
 **Business Impact:**
 - Release Cycle Time: **4 hours → 15 minutes**
