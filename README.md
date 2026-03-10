@@ -112,41 +112,41 @@ flowchart TD
 
     subgraph DEV["fa:fa-laptop-code Developer Workflow"]
         direction LR
-        A["fa:fa-user-circle Engineer\nVS Code · Copilot"] -->|"git push"| B["fa:fa-code-branch Pull Request\nBranch Protection"]
+        A["fa:fa-user-circle Engineer<br>VS Code · Copilot"] -->|"git push"| B["fa:fa-code-branch Pull Request<br>Branch Protection"]
     end
 
     subgraph CI["fa:fa-cogs CI Pipeline · GitHub Actions"]
         direction LR
-        C["fa:fa-hammer Build & Test\npytest · Jest"] -->|"tests pass"| D["fa:fa-shield-alt SAST & SCA\nSonarQube · Trivy"]
-        D -->|"vuln score OK"| E["fa:fa-file-contract Policy Gate\nOPA Conftest"]
+        C["fa:fa-hammer Build & Test<br>pytest · Jest"] -->|"tests pass"| D["fa:fa-shield-alt SAST & SCA<br>SonarQube · Trivy"]
+        D -->|"vuln score OK"| E["fa:fa-file-contract Policy Gate<br>OPA Conftest"]
     end
 
     subgraph REG["fa:fa-archive Artifact Management"]
         direction LR
-        F["fa:fa-docker Container Registry\nAzure ACR · AWS ECR"] -->|"sign & attest"| G["fa:fa-lock Image Signing\nCosign"]
+        F["fa:fa-docker Container Registry<br>Azure ACR · AWS ECR"] -->|"sign & attest"| G["fa:fa-lock Image Signing<br>Cosign"]
     end
 
     subgraph GITOPS["fa:fa-sync GitOps Control Plane"]
         direction LR
-        H["fa:fa-git-alt Config Repository\nHelm Charts · Kustomize"] -->|"PR merged → reconcile"| I["fa:fa-redo ArgoCD\nApp of Apps"]
+        H["fa:fa-git-alt Config Repository<br>Helm Charts · Kustomize"] -->|"PR merged → reconcile"| I["fa:fa-redo ArgoCD<br>App of Apps"]
     end
 
     subgraph CLOUD["fa:fa-cloud Multi-Cloud Kubernetes Layer"]
         direction LR
-        J["fa:fa-microsoft AKS\nAzure"] --- L["fa:fa-network-wired Service Mesh\nIstio mTLS"]
-        K["fa:fa-aws EKS\nAWS"] --- L
+        J["fa:fa-microsoft AKS<br>Azure"] --- L["fa:fa-network-wired Service Mesh<br>Istio mTLS"]
+        K["fa:fa-aws EKS<br>AWS"] --- L
     end
 
     subgraph OBS["fa:fa-chart-line Observability Platform"]
         direction LR
-        M["fa:fa-tachometer-alt Metrics\nPrometheus"] --> P["fa:fa-desktop Dashboards\nGrafana Cloud"]
-        N["fa:fa-sitemap Tracing\nOpenTelemetry"] --> P
-        O["fa:fa-list Logging\nFluentd · Loki"] --> P
+        M["fa:fa-tachometer-alt Metrics<br>Prometheus"] --> P["fa:fa-desktop Dashboards<br>Grafana Cloud"]
+        N["fa:fa-sitemap Tracing<br>OpenTelemetry"] --> P
+        O["fa:fa-list Logging<br>Fluentd · Loki"] --> P
     end
 
     subgraph INC["fa:fa-bell Incident & Response"]
         direction LR
-        Q["fa:fa-exclamation-triangle Alerting\nPagerDuty"] -->|"trigger runbook"| R["fa:fa-wrench Auto-Remediation\nAnsible"]
+        Q["fa:fa-exclamation-triangle Alerting<br>PagerDuty"] -->|"trigger runbook"| R["fa:fa-wrench Auto-Remediation<br>Ansible"]
     end
 
     B -->|"webhook trigger"| C;
@@ -190,29 +190,29 @@ flowchart TD
     classDef siemStyle fill:#2b0d0d,stroke:#f85149,color:#ffd0cc,rx:8;
 
     subgraph AUTH["fa:fa-id-card Identity & Access Management (IAM)"]
-        A["fa:fa-user-shield Client / App Request\nAPI Gateway"] --> B["fa:fa-id-badge Identity Provider\nOkta · Entra ID"]
-        B --> C{"fa:fa-fingerprint\nContextual\nMFA Check"}
-        C -->|"Valid Token"| D["fa:fa-balance-scale Policy Engine\nOPA · ABAC/RBAC"]
+        A["fa:fa-user-shield Client / App Request<br>API Gateway"] --> B["fa:fa-id-badge Identity Provider<br>Okta · Entra ID"]
+        B --> C{"fa:fa-fingerprint<br>Contextual<br>MFA Check"}
+        C -->|"Valid Token"| D["fa:fa-balance-scale Policy Engine<br>OPA · ABAC/RBAC"]
         C -->|"Failed"| X["fa:fa-ban Access Denied"]
     end
 
     subgraph SECRETS["fa:fa-key Dynamic Secrets & Vault"]
-        D -->|"Request access"| E["fa:fa-lock HashiCorp Vault\nSecrets Engine"]
-        E -->|"Issue TTL Token"| F["fa:fa-stopwatch Dynamic Credentials\nShort-lived DB Roles"]
+        D -->|"Request access"| E["fa:fa-lock HashiCorp Vault<br>Secrets Engine"]
+        E -->|"Issue TTL Token"| F["fa:fa-stopwatch Dynamic Credentials<br>Short-lived DB Roles"]
     end
 
     subgraph NETWORK["fa:fa-network-wired Zero-Trust Network"]
-        F -->|"Authenticate"| G["fa:fa-project-diagram Service Mesh\nIstio"]
-        G --- H["fa:fa-shield-alt mTLS Encryption\nEnd-to-End"]
+        F -->|"Authenticate"| G["fa:fa-project-diagram Service Mesh<br>Istio"]
+        G --- H["fa:fa-shield-alt mTLS Encryption<br>End-to-End"]
     end
 
     subgraph DATA["fa:fa-database Secure Data Layer"]
-        H -->|"Encrypted payload"| I[("fa:fa-server Encrypted Storage\nAWS KMS · AES-256")]
-        I -->|"Emit logs"| J["fa:fa-file-signature Audit Telemetry\nCloudTrail · Auditd"]
+        H -->|"Encrypted payload"| I[("fa:fa-server Encrypted Storage<br>AWS KMS · AES-256")]
+        I -->|"Emit logs"| J["fa:fa-file-signature Audit Telemetry<br>CloudTrail · Auditd"]
     end
 
     subgraph SIEM["fa:fa-search Continuous Compliance & Threat Hunting"]
-        J --> K["fa:fa-microchip SIEM & Auto-Remediation\nDatadog Security · Splunk"]
+        J --> K["fa:fa-microchip SIEM & Auto-Remediation<br>Datadog Security · Splunk"]
         X -->|"Alert Trigger"| K
     end
 
