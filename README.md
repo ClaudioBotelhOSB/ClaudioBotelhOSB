@@ -101,14 +101,14 @@ Leveraging a rigorous background in *competitive programming* (ICPC Internationa
 
 ```mermaid
 flowchart TD
-    classDef devStyle    fill:#0d1f38,stroke:#58a6ff,color:#cae6ff,rx:8
-    classDef ciStyle     fill:#0d1f0d,stroke:#3fb950,color:#ccffd4,rx:8
-    classDef secStyle    fill:#2b0d0d,stroke:#f85149,color:#ffd0cc,rx:8
-    classDef regStyle    fill:#1a0d2e,stroke:#bc8cff,color:#eddeff,rx:8
-    classDef gitopsStyle fill:#0d1f38,stroke:#79c0ff,color:#cae6ff,rx:8
-    classDef cloudStyle  fill:#051520,stroke:#1f6feb,color:#a5d6ff,rx:8
-    classDef obsStyle    fill:#1f1200,stroke:#d29922,color:#ffe8a0,rx:8
-    classDef alertStyle  fill:#1f0a00,stroke:#db6d28,color:#ffd8b0,rx:8
+    classDef devStyle fill:#0d1f38,stroke:#58a6ff,color:#cae6ff,rx:8;
+    classDef ciStyle fill:#0d1f0d,stroke:#3fb950,color:#ccffd4,rx:8;
+    classDef secStyle fill:#2b0d0d,stroke:#f85149,color:#ffd0cc,rx:8;
+    classDef regStyle fill:#1a0d2e,stroke:#bc8cff,color:#eddeff,rx:8;
+    classDef gitopsStyle fill:#0d1f38,stroke:#79c0ff,color:#cae6ff,rx:8;
+    classDef cloudStyle fill:#051520,stroke:#1f6feb,color:#a5d6ff,rx:8;
+    classDef obsStyle fill:#1f1200,stroke:#d29922,color:#ffe8a0,rx:8;
+    classDef alertStyle fill:#1f0a00,stroke:#db6d28,color:#ffd8b0,rx:8;
 
     subgraph DEV["fa:fa-laptop-code Developer Workflow"]
         direction LR
@@ -149,25 +149,24 @@ flowchart TD
         Q["fa:fa-exclamation-triangle Alerting\nPagerDuty"] -->|"trigger runbook"| R["fa:fa-wrench Auto-Remediation\nAnsible"]
     end
 
-    %% Integrações principais entre os subgrafos
-    B -->|"webhook trigger"| C
-    E -->|"push verified image"| F
-    G -->|"CI pipeline commits new digest"| H
-    I -->|"apply manifests"| J
-    I -->|"apply manifests"| K
-    L --> M
-    L --> N
-    L --> O
-    P -->|"threshold breach"| Q
+    B -->|"webhook trigger"| C;
+    E -->|"push verified image"| F;
+    G -->|"CI pipeline commits new digest"| H;
+    I -->|"apply manifests"| J;
+    I -->|"apply manifests"| K;
+    L --> M;
+    L --> N;
+    L --> O;
+    P -->|"threshold breach"| Q;
 
-    class A,B         devStyle
-    class C,D,E       ciStyle
-    class F,G         regStyle
-    class H,I         gitopsStyle
-    class J,K,L       cloudStyle
-    class M,N,O,P     obsStyle
-    class Q,R         alertStyle
-    class D,E,G       secStyle
+    class A,B devStyle;
+    class C ciStyle;
+    class D,E,G secStyle;
+    class F regStyle;
+    class H,I gitopsStyle;
+    class J,K,L cloudStyle;
+    class M,N,O,P obsStyle;
+    class Q,R alertStyle;
 ```
 
 **Business Impact:**
@@ -184,44 +183,44 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    classDef authStyle    fill:#0d1f38,stroke:#58a6ff,color:#cae6ff,rx:8
-    classDef secretStyle  fill:#1f1200,stroke:#d29922,color:#ffe8a0,rx:8
-    classDef netStyle     fill:#1a0d2e,stroke:#bc8cff,color:#eddeff,rx:8
-    classDef dataStyle    fill:#051520,stroke:#1f6feb,color:#a5d6ff,rx:8
-    classDef siemStyle    fill:#2b0d0d,stroke:#f85149,color:#ffd0cc,rx:8
+    classDef authStyle fill:#0d1f38,stroke:#58a6ff,color:#cae6ff,rx:8;
+    classDef secretStyle fill:#1f1200,stroke:#d29922,color:#ffe8a0,rx:8;
+    classDef netStyle fill:#1a0d2e,stroke:#bc8cff,color:#eddeff,rx:8;
+    classDef dataStyle fill:#051520,stroke:#1f6feb,color:#a5d6ff,rx:8;
+    classDef siemStyle fill:#2b0d0d,stroke:#f85149,color:#ffd0cc,rx:8;
 
-    subgraph AUTH["fa:fa-id-card  Identity & Access Management (IAM)"]
+    subgraph AUTH["fa:fa-id-card Identity & Access Management (IAM)"]
         A["fa:fa-user-shield Client / App Request\nAPI Gateway"] --> B["fa:fa-id-badge Identity Provider\nOkta · Entra ID"]
         B --> C{"fa:fa-fingerprint\nContextual\nMFA Check"}
         C -->|"Valid Token"| D["fa:fa-balance-scale Policy Engine\nOPA · ABAC/RBAC"]
         C -->|"Failed"| X["fa:fa-ban Access Denied"]
     end
 
-    subgraph SECRETS["fa:fa-key  Dynamic Secrets & Vault"]
+    subgraph SECRETS["fa:fa-key Dynamic Secrets & Vault"]
         D -->|"Request access"| E["fa:fa-lock HashiCorp Vault\nSecrets Engine"]
         E -->|"Issue TTL Token"| F["fa:fa-stopwatch Dynamic Credentials\nShort-lived DB Roles"]
     end
 
-    subgraph NETWORK["fa:fa-network-wired  Zero-Trust Network"]
+    subgraph NETWORK["fa:fa-network-wired Zero-Trust Network"]
         F -->|"Authenticate"| G["fa:fa-project-diagram Service Mesh\nIstio"]
         G --- H["fa:fa-shield-alt mTLS Encryption\nEnd-to-End"]
     end
 
-    subgraph DATA["fa:fa-database  Secure Data Layer"]
+    subgraph DATA["fa:fa-database Secure Data Layer"]
         H -->|"Encrypted payload"| I[("fa:fa-server Encrypted Storage\nAWS KMS · AES-256")]
         I -->|"Emit logs"| J["fa:fa-file-signature Audit Telemetry\nCloudTrail · Auditd"]
     end
 
-    subgraph SIEM["fa:fa-search  Continuous Compliance & Threat Hunting"]
+    subgraph SIEM["fa:fa-search Continuous Compliance & Threat Hunting"]
         J --> K["fa:fa-microchip SIEM & Auto-Remediation\nDatadog Security · Splunk"]
         X -->|"Alert Trigger"| K
     end
 
-    class A,B,C,D,X authStyle
-    class E,F       secretStyle
-    class G,H       netStyle
-    class I,J       dataStyle
-    class K         siemStyle
+    class A,B,C,D,X authStyle;
+    class E,F secretStyle;
+    class G,H netStyle;
+    class I,J dataStyle;
+    class K siemStyle;
 ```
 
 **Business Impact:**
