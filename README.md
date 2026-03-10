@@ -56,46 +56,16 @@ Integrated validation and security checks into delivery pipelines to improve rel
 
 ---
 
-## Stack
+## Core Expertise
 
-**Cloud**
-- AWS
-- Azure
-- DigitalOcean
-
-**Infrastructure / Platform**
-- Terraform
-- Kubernetes
-- Docker
-- Helm
-- ArgoCD
-- Ansible
-
-**CI/CD**
-- GitHub Actions
-- GitLab CI
-- Jenkins
-
-**Security**
-- HashiCorp Vault
-- IAM
-- Trivy
-- SonarQube
-- SAST / DAST practices
-
-**Observability / Data**
-- Prometheus
-- Grafana
-- Datadog
-- Python
-- SQL
-
-**Languages**
-- Python
-- Go
-- TypeScript
-- Bash
-
+| Domain | Technologies | Focus |
+|---|---|---|
+| Cloud & Infrastructure | AWS, Azure, Terraform | Multi-cloud infrastructure, IaC, landing zones, cost-aware architecture |
+| Container Orchestration | Kubernetes, Docker, Helm, ArgoCD | EKS/AKS, GitOps, platform reliability, deployment workflows |
+| DevSecOps & Security | Vault, Trivy, SonarQube, SAST/DAST | Secrets management, secure pipelines, vulnerability reduction |
+| CI/CD & Automation | GitHub Actions, GitLab CI, Jenkins, Ansible | Pipeline automation, release workflows, configuration management |
+| Observability | Prometheus, Grafana, Datadog, ELK | Metrics, logs, tracing, alerting, operational visibility |
+| Programming | Python, Go, TypeScript, Bash | Automation, internal tooling, APIs, operational scripts |
 ---
 
 ## What you'll find here
