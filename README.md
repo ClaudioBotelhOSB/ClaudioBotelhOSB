@@ -140,4 +140,15 @@ As I keep publishing, this profile will increasingly reflect how I think about:
 
 ---
 
+## Note on public work
+
+Most of my production work has been delivered in private company repositories and internal platforms.
+
+Because of that, this profile focuses on:
+- public technical experiments
+- reusable infrastructure patterns
+- platform engineering examples
+- architecture notes and operational practices I can share openly
+- projects to challenge myself
+
 > I prefer to let shipped work, technical decisions, and operating results speak louder than slogans.
