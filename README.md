@@ -31,7 +31,7 @@ I also have a strong problem-solving background through competitive programming 
 
 ## 🎯 What I work on
 
-- **Cloud infrastructure** for AWS and Azure environments
+- **Cloud infrastructure** for AWS, Azure, GCP, and bare-metal / self-hosted environments
 - **Infrastructure as Code** with Terraform and automation tooling
 - **Kubernetes platforms** and deployment workflows
 - **CI/CD pipelines** with security checks built into delivery
@@ -44,7 +44,7 @@ I also have a strong problem-solving background through competitive programming 
 
 | Domain | Technologies | Focus |
 |---|---|---|
-| Cloud & Infrastructure | AWS, Azure, Terraform | Multi-cloud infrastructure, IaC, landing zones, cost-aware architecture |
+| Cloud & Infrastructure | AWS, Azure, GCP, Terraform | Cloud infrastructure, IaC, landing zones, cost-aware architecture |
 | Container Orchestration | Kubernetes, Docker, Helm, ArgoCD | EKS/AKS, GitOps, platform reliability, deployment workflows |
 | DevSecOps & Security | Vault, Trivy, SonarQube, SAST/DAST | Secrets management, secure pipelines, vulnerability reduction |
 | CI/CD & Automation | GitHub Actions, GitLab CI, Jenkins, Ansible | Pipeline automation, release workflows, configuration management |
@@ -52,12 +52,11 @@ I also have a strong problem-solving background through competitive programming 
 | Programming | Python, Go, TypeScript, Bash | Automation, internal tooling, APIs, operational scripts |
 ---
 
-## Open to
+## 🤝 Open to
 
 - Remote Senior DevSecOps roles
 - Cloud / Platform Engineering roles
 - B2B contracts
-- Staff augmentation
 - Infrastructure and security-focused consulting
 
 ---
@@ -69,7 +68,7 @@ I also have a strong problem-solving background through competitive programming 
 
 ---
 
-## Note on public work
+## 🔒 Note on public work
 
 Most of my production experience has been built in private company repositories and internal platforms.
 
