@@ -4,7 +4,7 @@
 
 **Senior DevSecOps Engineer focused on Cloud Infrastructure, Reliability, and Security Automation**
 
-I build and improve cloud platforms with a focus on **automation, reliability, security, and operational clarity**.
+I build and improve cloud platforms with a focus on **automation, reliability, security, and operational clarity**, often combining telemetry, data analysis, and AI-assisted workflows to improve visibility and operational response.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudiosb/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:botelho.claudiosb@gmail.com)
@@ -23,6 +23,7 @@ My work is usually centered on a few practical goals:
 - improving platform reliability and recovery time
 - reducing manual operational work with automation
 - strengthening security controls inside delivery pipelines
+- validating production changes through automated end-to-end checks
 - turning raw telemetry into useful operational signals
 
 I also have a strong problem-solving background through competitive programming (ICPC), which influences how I approach systems design, debugging, and performance bottlenecks.
@@ -37,6 +38,8 @@ I also have a strong problem-solving background through competitive programming 
 - **CI/CD pipelines** with security checks built into delivery
 - **Observability systems** for metrics, logs, tracing, and incident response
 - **Security automation** for secrets, access control, validation, and investigation workflows
+- **Data-driven operational visibility** through automated extraction, enrichment, and reporting workflows
+- **Post-deployment validation workflows** with automated smoke tests and end-to-end checks for production confidence
 
 ---
 
@@ -50,6 +53,9 @@ I also have a strong problem-solving background through competitive programming 
 | CI/CD & Automation | GitHub Actions, GitLab CI, Jenkins, Ansible | Pipeline automation, release workflows, configuration management |
 | Observability | Prometheus, Grafana, Datadog, ELK | Metrics, logs, tracing, alerting, operational visibility |
 | Programming | Python, Go, TypeScript, Bash | Automation, internal tooling, APIs, operational scripts |
+| Data & Operational Analytics | Python, SQL, CSV/Markdown reporting | Internal telemetry, automated reporting, investigation workflows, operational visibility |
+| Release Validation | Cypress, Cucumber, Selenium | Post-deployment smoke tests, end-to-end checks, production confidence |
+| Predictive Operations | Python, R, AI-assisted workflows | Operational forecasting, anomaly analysis, self-healing experimentation |
 ---
 
 ## 🤝 Open to
