@@ -4,7 +4,7 @@
 
 **Senior DevSecOps Engineer focused on Cloud Infrastructure, Reliability, and Security Automation**
 
-I build and improve cloud platforms with a focus on **automation, reliability, security, and operational clarity**, often using data and internal telemetry to turn platform activity into actionable engineering and security signals.
+I build and improve cloud platforms with a focus on **automation, reliability, security, and operational clarity**, often combining telemetry, data analysis, and AI-assisted workflows to improve visibility and operational response.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudiosb/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:botelho.claudiosb@gmail.com)
@@ -55,6 +55,7 @@ I also have a strong problem-solving background through competitive programming 
 | Programming | Python, Go, TypeScript, Bash | Automation, internal tooling, APIs, operational scripts |
 | Data & Operational Analytics | Python, SQL, CSV/Markdown reporting | Internal telemetry, automated reporting, investigation workflows, operational visibility |
 | Release Validation | Cypress, Cucumber, Selenium | Post-deployment smoke tests, end-to-end checks, production confidence |
+| Predictive Operations | Python, R, AI-assisted workflows | Operational forecasting, anomaly analysis, self-healing experimentation |
 ---
 
 ## 🤝 Open to
